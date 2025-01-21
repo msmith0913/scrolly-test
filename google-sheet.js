@@ -7,7 +7,7 @@ import { ScrollyData, StoryData, StepData, ScrollyError } from "./common.js";
 // Also, you must Share the sheet so that anyone with a link can access it
 // Share button at top right of sheet -> General Access -> Anyone with the link -> Viewer
 const googleSheetURL =
-  "https://docs.google.com/spreadsheets/d/1Nkq7DLecFxgwSs9tC0f_k0tTNTHPrsV3Bqf9L98aSuQ/edit?gid=0#gid=0";
+  "https://docs.google.com/spreadsheets/d/1ClVwW53n8miup20-2pmHp2SUSqLZ5Fi4gr-09S0wgT8/edit?gid=0#gid=0";
 
 //googleSheetURL =
 //  "docs.google.com/spreadsheets/d/1qg8Ap_YeYf-vpS5QPNAFX8KJ3IEo_r_TAigIcWwHxmU/edit?gid=1843475809#gid=1843475809";
